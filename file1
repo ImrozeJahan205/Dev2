@@ -7,3 +7,4 @@ another commit1
 test for staged diff
 testing rebasing
 testing cherry pick
+testing git stash
